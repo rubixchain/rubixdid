@@ -11,9 +11,13 @@ Rubix Decentralized IDentity (DID) project is an open standard enabling users to
 5.  Instant confirmation and finality
 6.  Data confidentiality is preserved by using patented Non-Linear Secret Sharing (NLSS) method
 7.  In Compliance with globally accepted standards like
+
      [IMS Open Badges](https://www.imsglobal.org/sites/default/files/Badges/OBv2p0/index.html)
+     
     [W3C Verifiable Claims](https://w3c.github.io/vc-data-model/)
+    
      [W3C Linked Data Signatures](https://w3c-dvcg.github.io/ld-signatures/)
+     
 8.  Follows digital preservation rules like GDPR, CCPA
 9.  All transactions are on-chain (no Layer 2 protocols)
 10.  Light weight infrastructure with support for multi architectural designs
